@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/slf4j-nop-1.5.2.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/sqlServerJDBC/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/hibernate3.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/commons-lang.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/org.apache.commons.beanutils.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/jackson-all-1.6.0.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/json-lib-2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/ezmorph-1.0.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/required/commons-logging-1.0.1.jar"/>
+	<classpathentry kind="lib" path="hibernate-distribution-3.3.2.GA-dist/hibernate-distribution-3.3.2.GA/lib/mysqlJDBC/mysql-jdbc-5.1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
